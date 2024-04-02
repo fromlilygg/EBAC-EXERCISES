@@ -1,0 +1,40 @@
+.paragraph{
+    font-size: 30px;
+    font-style: italic;
+    color: rgb(211, 43, 226);
+    text-align: center;
+}
+
+.input{
+    color: black;
+    border-color: blueviolet;
+    border-radius: 5%;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    color: rgb(226, 43, 134);
+    border-radius: 5%;
+    border-style: groove;
+    cursor:pointer;
+    box-shadow: snow;
+}
+
+.container-button{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 60px;
+}
+
+.result{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
