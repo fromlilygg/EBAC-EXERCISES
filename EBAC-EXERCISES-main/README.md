@@ -1,1 +1,1 @@
-Lista de exercícios do curso de JavaScript - EBAC
+Listas de exercícios do curso de JavaScript // EBAC
