@@ -49,10 +49,16 @@ false
 branco == "preto"
 
 c) carro === branco
-true
+false
+carro === "preto"
 
 d) var cavalo = carro == “preto” ? “cinza” : “marron”;
-cinza
+undefined
+
+cavalo = cinza // valor da variável cavalo de acordo com a condição
+
+condição:
+
 carro == "preto" / true
 se true carro == "cinza"
 cavalo = "cinza"
